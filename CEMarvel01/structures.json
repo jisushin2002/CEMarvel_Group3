@@ -1,0 +1,50 @@
+
+[
+    {
+        "id": 1,
+        "name": "Great Wall",
+        "country": "china",
+        "description": "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.",
+        "latitude": 39.935539,
+        "longitude": 116.405640,
+        "picture": "great wall"
+    },
+    {
+        "id": 2,
+        "name": "Segovia Aqueduct",
+        "country": "spain",
+        "description": "The Aqueduct of Segovia is known to have been built at the end of the 1st century by Roman engineers. Roman engineers defined three dimensions of quality: Utilitas, Firmitas, and Venustas. Utilitas is the utility of the structure, Firmitas means structural integrity, and Venustas is aesthetics. Thanks to these quality criteria, the Aqueduct had been in use to transport water until 19th century.",
+        "latitude": 40.942902,
+        "longitude": -4.108807,
+        "picture": "segovia aqueduct"
+    },
+    {
+        "id": 3,
+        "name": "Panama Canal",
+        "country": "panama",
+        "description": "Panama Canal links the Pacific and the Atlantic Oceans. It was French people who first worked on this construction. After a successful completion of the Suez Canal, the French tried to complete this project but in vain. Technical difficulties, hostile climate, and political issues had led to the failure. It was Americans who took over the construction in early 20th century. They tried to solve those problems identified by the French people. They used the lock-approach to have different water elevations in the canal. They controlled mosquitos to deal with the disease of yellow fever. They even supported a revolution that led to the formation of Republic of Panama.",
+        "latitude": 9.080000,
+        "longitude": -79.680000,
+        "picture": "panama canal"
+    },
+    {
+        "id": 4,
+        "name": "Incheon Bridge",
+        "country": "korea",
+        "description": "Incheon Bridge is a part of the 21.38 km long highway linking Incheon and Seoul in Korea. As you can see, this is a cable-stayed bridge. The main span between the two pylons is 800 m, and the height of each pylon is 230.5 m. The total cost was about $2.2 billion. This structure was completed in 2009 using the so-called public-private-partnership approach. Not just tax payers’ money but also private entities money were used for this construction.",
+        "latitude": 37.413891,
+        "longitude": 126.566666,
+        "picture": "incheon bridge"
+    },
+    {
+        "id": 5,
+        "name": "Burj Khalifa",
+        "country": "uae",
+        "description": "Burj Khalifa is the tallest building of the world located in Dubai. The height is 829.8 m and there is 163 floors. This was completed in 2010. It cost about $1.5 billion. Suppose you have this money of $1.5 billion, and your job is to build this monumental structure. What would you do?",
+        "latitude": 25.197525,
+        "longitude": 55.274288,
+        "picture": "burj khalifa"
+    }
+ ]
+
+
