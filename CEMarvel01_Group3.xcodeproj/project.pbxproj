@@ -18,7 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3A0FCD4129FE225500F646F5 /* CEMarvel01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CEMarvel01.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3A0FCD4129FE225500F646F5 /* CEMarvel01_Group3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CEMarvel01_Group3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3A0FCD4429FE225500F646F5 /* CEMarvel01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CEMarvel01App.swift; sourceTree = "<group>"; };
 		3A0FCD4629FE225500F646F5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A0FCD4829FE225700F646F5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -51,7 +51,7 @@
 		3A0FCD4229FE225500F646F5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3A0FCD4129FE225500F646F5 /* CEMarvel01.app */,
+				3A0FCD4129FE225500F646F5 /* CEMarvel01_Group3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -82,9 +82,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3A0FCD4029FE225500F646F5 /* CEMarvel01 */ = {
+		3A0FCD4029FE225500F646F5 /* CEMarvel01_Group3 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3A0FCD4F29FE225700F646F5 /* Build configuration list for PBXNativeTarget "CEMarvel01" */;
+			buildConfigurationList = 3A0FCD4F29FE225700F646F5 /* Build configuration list for PBXNativeTarget "CEMarvel01_Group3" */;
 			buildPhases = (
 				3A0FCD3D29FE225500F646F5 /* Sources */,
 				3A0FCD3E29FE225500F646F5 /* Frameworks */,
@@ -94,9 +94,9 @@
 			);
 			dependencies = (
 			);
-			name = CEMarvel01;
+			name = CEMarvel01_Group3;
 			productName = CEMarvel01;
-			productReference = 3A0FCD4129FE225500F646F5 /* CEMarvel01.app */;
+			productReference = 3A0FCD4129FE225500F646F5 /* CEMarvel01_Group3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -114,7 +114,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3A0FCD3C29FE225500F646F5 /* Build configuration list for PBXProject "CEMarvel01" */;
+			buildConfigurationList = 3A0FCD3C29FE225500F646F5 /* Build configuration list for PBXProject "CEMarvel01_Group3" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -127,7 +127,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3A0FCD4029FE225500F646F5 /* CEMarvel01 */,
+				3A0FCD4029FE225500F646F5 /* CEMarvel01_Group3 */,
 			);
 		};
 /* End PBXProject section */
@@ -336,7 +336,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3A0FCD3C29FE225500F646F5 /* Build configuration list for PBXProject "CEMarvel01" */ = {
+		3A0FCD3C29FE225500F646F5 /* Build configuration list for PBXProject "CEMarvel01_Group3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A0FCD4D29FE225700F646F5 /* Debug */,
@@ -345,7 +345,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3A0FCD4F29FE225700F646F5 /* Build configuration list for PBXNativeTarget "CEMarvel01" */ = {
+		3A0FCD4F29FE225700F646F5 /* Build configuration list for PBXNativeTarget "CEMarvel01_Group3" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3A0FCD5029FE225700F646F5 /* Debug */,

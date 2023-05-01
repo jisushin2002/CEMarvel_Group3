@@ -2,49 +2,40 @@
 [
     {
         "id": 1,
-        "name": "Great Wall",
-        "country": "china",
-        "description": "More than 2200 years ago, the first emperor of China, after uniting the country, ordered the construction of this wall. Although what remains today is mainly from the Ming dynasty that existed from 14th to 17th century, we can see that the first emperor wanted to defend China from the intrusion of various nomadic powers. There must have been lots of hurdles to overcome to construct the great wall. Lots of people may have been injured or even died during the construction. But we see the purpose of this monumental structure. This was to protect lives and wealth of people.",
-        "latitude": 39.935539,
-        "longitude": 116.405640,
-        "picture": "great wall"
+        "name": "Empire State Building",
+        "country": "united states of america"
+        "description": "The Empire State Building is located on 34th Street in Manhattan, New York. And the building is the most representative skyscraper. Since it has maintained the position of the tallest building in the world for 39 years. The building has 16-story steel tower on top of the 86-story concrete. Even though it is not the tallest building in New York now, still it has the highest status as a landmark skyscraper. It also appeared as the background of many movies such as King Kong and the Spider man.",
+        "latitude": 40.748433,
+        "longitude": -73.985428,
+        "picture": "empire state building",
+
     },
     {
         "id": 2,
-        "name": "Segovia Aqueduct",
-        "country": "spain",
-        "description": "The Aqueduct of Segovia is known to have been built at the end of the 1st century by Roman engineers. Roman engineers defined three dimensions of quality: Utilitas, Firmitas, and Venustas. Utilitas is the utility of the structure, Firmitas means structural integrity, and Venustas is aesthetics. Thanks to these quality criteria, the Aqueduct had been in use to transport water until 19th century.",
-        "latitude": 40.942902,
-        "longitude": -4.108807,
-        "picture": "segovia aqueduct"
+        "name": "Leaning Tower of Pisa",
+        "country": "italy",
+        "description": "The Leaning Tower of Pisa is the freestanding bell tower of Pisa Cathedral located in Pisa city, Toscana state in Italy. It is known for its nearly four-degree(4’) lean, since it was built in the unstable foundation. After being constructed, there was slightly slope and that make the burden on the ground which act as a positive feedback for leaning. Thus, for a long time engineers have done several times of repair works, the tower stopped leaning with a slope of 4 degree.",
+        "latitude": 43.723016,
+        "longitude": 10.396632,
+        "picture": "leaning tower of pisa"
     },
     {
         "id": 3,
-        "name": "Panama Canal",
-        "country": "panama",
-        "description": "Panama Canal links the Pacific and the Atlantic Oceans. It was French people who first worked on this construction. After a successful completion of the Suez Canal, the French tried to complete this project but in vain. Technical difficulties, hostile climate, and political issues had led to the failure. It was Americans who took over the construction in early 20th century. They tried to solve those problems identified by the French people. They used the lock-approach to have different water elevations in the canal. They controlled mosquitos to deal with the disease of yellow fever. They even supported a revolution that led to the formation of Republic of Panama.",
-        "latitude": 9.080000,
-        "longitude": -79.680000,
-        "picture": "panama canal"
+        "name": "Greenwich Observatory",
+        "country": "united kingdom”",
+        "description": "Greenwich Observatory was built in 1675 for astronomical observation. In 1883, the people who attended the international conference set that the longitude of the observatory is zero. Therefore, In 1884, the observatory became the standard of the zero meridian. In 1930s, the observatory was moved to Sussex, since the pollution caused by modern cilcillizaton such as polluted fog also named smog and dust, muck higher buildings and bright neon signs made it difficult to observe the sky. In 1990, the main observatory was moved to Cambridge University, However, it still uses the name of the Greenwich observatory.",
+        "latitude": 51.4786852,
+        "longitude": -00.500,
+        "picture": "greenwich observatory"
     },
     {
         "id": 4,
-        "name": "Incheon Bridge",
-        "country": "korea",
-        "description": "Incheon Bridge is a part of the 21.38 km long highway linking Incheon and Seoul in Korea. As you can see, this is a cable-stayed bridge. The main span between the two pylons is 800 m, and the height of each pylon is 230.5 m. The total cost was about $2.2 billion. This structure was completed in 2009 using the so-called public-private-partnership approach. Not just tax payers’ money but also private entities money were used for this construction.",
-        "latitude": 37.413891,
-        "longitude": 126.566666,
-        "picture": "incheon bridge"
-    },
-    {
-        "id": 5,
-        "name": "Burj Khalifa",
-        "country": "uae",
-        "description": "Burj Khalifa is the tallest building of the world located in Dubai. The height is 829.8 m and there is 163 floors. This was completed in 2010. It cost about $1.5 billion. Suppose you have this money of $1.5 billion, and your job is to build this monumental structure. What would you do?",
-        "latitude": 25.197525,
-        "longitude": 55.274288,
-        "picture": "burj khalifa"
+        "name": "Suez Canal",
+        "country": "egypt",
+        "description": "The Suez Canal was constructed in 1896 after cutting the first sod 10 years period. It is a manmade waterway which connects Europe of the Mediterranean Sea to Asia of the Red sea. Long time ago, the sailor bypass that area by doing a dangerous journey through coastline of Africa via the Good Hope Cape. And the canal has the big size which is about 193km long, 24m deep and 205 wide. Thus it enables ships to pass between Europe and Asia without having to circumnavigate the coastline of Africa.",
+        "latitude": 30.55901,
+        "longitude": 32.33757,
+        "picture": "suez canal"
     }
  ]
-
 
